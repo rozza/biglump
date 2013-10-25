@@ -1,7 +1,7 @@
 ---
 layout: post-no-feature
 title: "Normality creeps in"
-description: "Normality.  I'm back at the leisure centre two weeks on from the
+description: "I'm back at the leisure centre two weeks on from the
 first post.  Child No 1 is doing gymnastics and boy child is on the iPad.
 Normal.   Ross is with me and the world has shifted on its axis.
 "

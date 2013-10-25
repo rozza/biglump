@@ -1,6 +1,6 @@
 ---
 layout: post-no-feature
-title: "Julias Challenge"
+title: "Julia's Challenge"
 description: "Woke at 6:15am after some trippy dreams.  Out of nowhere I was
 feeling so down as if the emotions of the last few days had still been building
 to boiling point in my sleep. I was sobbing and couldn't stop."
