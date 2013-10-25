@@ -1,6 +1,6 @@
 ---
 layout: post-no-feature
-title: "The day after"
+title: "The next day"
 description: "Today has passed in a bit of a blur."
 category: articles
 tags: [wait, results, nhs]
@@ -25,6 +25,6 @@ I had some beautiful flowers arrive from Dad and Julie with a card saying they w
 
 Ross is flying solo at parents evening.  I can't face it to be honest.  First parents evening I've missed.  But it needs to be focused on the kids.  I'm too much of a zombie and too leaky to make myself anything other than a nuisance right now.
 
-Ross has been great and continues to be my rock, and to help me use our sense of  humour to get us through.
+Ross has been great and continues to be my rock, and to help me use our sense of humour to get us through.
 
 Jx

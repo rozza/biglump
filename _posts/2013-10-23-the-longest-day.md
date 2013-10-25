@@ -6,7 +6,7 @@ categories: articles
 tags: [wait, mummy day]
 image:
     feature: soft-trees.jpg
-author: true
+ross: true
 comments: true
 ---
 Julia immediately noticed we were seeing Mr rather than Dr and commented to the nurse, who gave a non committal reply. One quick examination then into a room with with two nurses and the consultant (this can't be good news). It's cancer and my fears of the last two weeks and last few months have been realised.  We are told quickly and honestly that it will involve operations, chemo and a mastectomy.
