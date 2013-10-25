@@ -1,3 +1,5 @@
+<!doctype html>
+<html lang="en">
 <meta charset="utf-8">
 <title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
 <meta name="description" content="{{ page.description }}">
@@ -24,8 +26,6 @@
 <link rel="stylesheet" href="{{ site.url }}/assets/css/entypo.css" media="all">
 <link rel='stylesheet' href='{{ site.url }}/assets/css/cal.css' media='all' />
 
-
-
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ site.url }}/assets/css/i.css">
 
@@ -47,16 +47,19 @@
   <body class="">
     <header class="site-header darken">
       <div class="wrap">
+        {% if page.layout != "home" %}
         <hgroup>
           <h1><a href="/">{{ site.title }}</a></h1>
         </hgroup>
+        {% endif %}
         <a href="#nav" class="menu"><span class='icons'>☰</span></a>
         <nav role="navigation">
           <ul>
+            {% if page.layout != "home" %}
             <li>
               <a href="/" title="{{ site.title }}">Home</a>
             </li>
-
+            {% endif %}
             {% for link in site.links %}
                 <li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>
             {% endfor %}

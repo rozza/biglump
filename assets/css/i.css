@@ -624,7 +624,6 @@ header.site-header nav ul li a:hover {
   display: block;
   margin: 0 auto;
   float: none;
-  padding-top: 140px;
 }
 .archive-wrap .post-list {
   list-style-type: none;
@@ -707,7 +706,7 @@ header.site-header nav ul li a:hover {
   font-weight: bold;
   font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
   font-style: normal;
-  color: #d9d9d9;
+  color: #404040;
   text-transform: uppercase;
   vertical-align: middle;
 }
@@ -728,14 +727,18 @@ header.site-header nav ul li a:hover {
   color: #999999;
   margin-bottom: 16.5px;
 }
-.post h1 {
+.post h1, .home h1 {
   font-style: italic;
   color: #e40085;
+}
+h1 span {
+  font-family: "Crimson Text", "Hoefler Text", "Georgia", serif;
+  border-bottom: 2px solid #8ab9d1;
 }
 .post h1.ross {
   color: #006DB0;
 }
-.post h1, .post h2, .post h3, .post h4, .post h5 {
+.post h1, .post h2, .post h3, .post h4, .post h5, .home h1 {
   padding-top: 16.5px;
   margin-bottom: 16.5px;
   line-height: 1.25em;

@@ -1,11 +1,12 @@
 ---
-layout: post
+layout: page
 permalink: /about/index.html
 title: Big Lump and the Lawleys
 description: This is the Lawleys blog about our journey from illness to health.
 tags: [about, cancer, breast cancer, journey, therapy]
 image:
   feature: pinkgerbera.jpg
+bb: true
 ---
 
 We're a normal family of 4 - 2 kids (Imogen & Felix), 3 cats (Meg, Mog & Merlin)

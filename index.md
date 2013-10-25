@@ -1,7 +1,8 @@
 ---
 layout: home
-title: "Recent Posts"
-tags: [Jekyll, theme, responsive, blog, template]
+title: Big Lump and the Lawleys
+description: This is the Lawleys blog about our journey from illness to health.
+tags: [about, cancer, breast cancer, journey, therapy]
 image:
-  feature: typewriter.jpg
+  feature: pinkgerbera.jpg
 ---
