@@ -4,6 +4,7 @@ title: "Feeling more positive"
 description: "Today has been a good day.  Certainly more positive. I've been kept busy, maybe that's why."
 category: articles
 tags: [wait, positive]
+comments: true
 ---
 
 We firstly took Merlin to the vets to get his first lot of jabs.  The vet was happy  he was a sociable cat, and gave plenty of advice.
