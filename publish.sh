@@ -1,8 +1,8 @@
 #!/bin/sh
 
-echo " ======================= "
-echo " Updating master branch"
-echo " ======================= "
+echo " ======================== "
+echo " Updating gh-pages branch"
+echo " ======================== "
 
 if git diff-index --quiet HEAD --; then
     rm -rf _site
@@ -11,7 +11,7 @@ if git diff-index --quiet HEAD --; then
     jekyll build
     mv _site .public
 
-    git co master
+    git co gh-pages
 
     rm -rf *
     mv .public/* .
@@ -25,5 +25,5 @@ else
     echo " ======================== "
     echo "            FAIL          "
     echo " ======================== "
-    echo "You have changes not checked-in - cannot automatically update master"
+    echo "You have changes not checked-in - cannot automatically update gh-pages"
 fi
