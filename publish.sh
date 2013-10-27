@@ -16,6 +16,7 @@ if git diff-index --quiet HEAD --; then
     rm -rf *
     mv .public/* .
     rm -rf .public
+    rm publish.sh
 
     echo " ======================== "
     echo "            WIN          "
