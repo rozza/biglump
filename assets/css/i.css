@@ -1089,6 +1089,12 @@ footer .social ul li:last-child {
     text-shadow: none;
   }
 
+  .article .featured-image, .article .overlay {
+    min-height: 100px;
+    height: 150px !important;
+  }
+
+
   #bump .darken nav ul {
     padding: 0;
     margin-top: 40px;
