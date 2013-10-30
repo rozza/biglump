@@ -1,13 +1,13 @@
 <!doctype html>
 <html lang="en">
 <meta charset="utf-8">
-<title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
+<title>{% if page.layout != "home" and page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
 <meta name="description" content="{{ page.description }}">
 <meta name="keywords" content="{{ page.tags | join: ', ' }}">
 
 
 <meta property="og:locale" content="en_US">
-<meta property="og:title" content="{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}">
+<meta property="og:title" content="{% if page.layout != "home" and page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}">
 <meta property="og:description" content="{% if page.layout == "home" %}{% for post in site.posts limit:3 %}{% if post.ross %}Ross{% else %}Julia{% endif %}: {{ post.description  | strip_html | strip_newlines | truncate: 100 }}
 {% endfor %}
 {% elsif page.description %}{{ page.description | strip_html | strip_newlines | truncate: 120  }}
