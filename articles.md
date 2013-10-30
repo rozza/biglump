@@ -2,5 +2,7 @@
 layout: home
 permalink: /articles/index.html
 title: "Articles"
-tags: [blog, lawley]
+tags: [about, cancer, breast cancer, journey, therapy]
+image:
+  feature: pinkgerbera.jpg
 ---
