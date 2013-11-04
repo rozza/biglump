@@ -11,7 +11,7 @@ comments: true
 
 Ross got us up at 5am this morning for the drive up to Newcastle.  Felix, Imogen and I slept for the first hour or so.
 
-We get to Grandma's and Ross and the bairn are soon being organised with Halloween preparations.  I have a sleep on the sofa.
+We get to Grandma's and Ross and the bairns are soon being organised with Halloween preparations.  I have a sleep on the sofa.
 
 We go and visit my Gran in the afternoon and then it's back to Grandma's and Grandad's for a party with the family.  There were hugs, laughs, thoughtful presents and trick or treating.  The bairns loved it.  I got hugs.  That was nice.  It's odd talking about my boobs with my brothers and my Dad, but this is important.  They need to know what's going to happen to me and how I'm feeling about it all.  The fact of the matter is, I have to do what it takes to get my life back.  There is no pussy footing about this.  It's going to be a hard road, I realise that, but it won't be forever.
 
