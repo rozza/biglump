@@ -1,5 +1,5 @@
 ---
-layout: post-light-feature
+layout: post-no-feature
 title: "Halloween Weekend"
 description: "Why Aye we're off to the Toon!"
 categories: articles
