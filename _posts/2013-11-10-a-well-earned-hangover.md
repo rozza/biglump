@@ -1,8 +1,8 @@
 ---
 layout: post-no-feature
 title: "A well earned hangover"
-description: "Julia woke with her arm on fire, in the night as she'd slept on it and
-was now awake and crying in pain."
+description: "Julia woke with her arm on fire, in the night she'd slept on it
+and was now awake and crying in pain."
 category: articles
 tags: [normality, wedding, pain, celebration]
 comments: true
