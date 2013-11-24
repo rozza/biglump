@@ -68,29 +68,6 @@ the car.  I'm starving so dive into the chippy for some lunch / tea.  I get home
 and Julia takes her meds and goes to bed. My mum and dad have been great and had
 the kids all day no problems, they tell us they are a credit to us.
 
-There are some downsides, it seems, as having the kids all day seem to have
-effected my Mum, her tact button and support button seems to have been turned
-off and stamped on. I'm tired and sensitive but for some reason she manages to
-wrap well meaning comments into belittling and/or critisims and my blood boils.
-It's really not the best time to ask me "What will you do tomorrow if Julia is ill?"
-because they are heading home, well I'll deal with it, that's what I'll do.
-Yes it was a shame Imogen missed her dance lesson but I wasn't in a state to
-draw a map and explain how to get there to them, I had a higher priorty item
-and it was simpler to not go.  I nearly lost it when she talked about Julia's
-diet - can't always eat fish and chips, I explain they were **my** fish and
-chips and I got them because I only had 3 biscuits since breakfast over 12 hours
-before.  After clearing up that misconception, I mention I also have
-frozen some meals, for my troubles I'm told she also needs fresh veg with it.
-FFS I'm not superman, if we are so tired I only cook one of our frozen meals
-then Julia and I will cope. For some reason it's important to know if Julia was
-doubled over in pain it got asked twice. I know my Julia and she has a high pain
-threshold and its not relevant anyway, chest pain == hospital for chemotherapy
-patients end of, there is no grey area here only one big massive warning light.
-
-I head to bed before I shout, after a day in A&E I only needed understanding and
-a bit of peace. It takes me over an hour to calm down and find the land of nod.
-I know she meant well and by morning I'm over it but there are ways and means and
-I really needed understanding and listening last night not advice for the future.
 
 There's no rule book or even guide book on how to cope with a loved one having
 cancer. It impacts us all - family and friends, all in very different ways. We
