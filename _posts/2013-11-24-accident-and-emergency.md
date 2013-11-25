@@ -8,7 +8,7 @@ tags: [doctors, therapy, drugs]
 comments: true
 ross: true
 image:
-    feature: waiting-area.png
+    feature: waiting-area.jpg
 ---
 
 I awake at 3:30 for some reason, Grandad is in the loo and I need to spend
