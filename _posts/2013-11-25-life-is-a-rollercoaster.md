@@ -1,7 +1,7 @@
 ---
 layout: post-no-feature
 title: "Life is a Rollercoaster"
-description: "In the immortal words of one Ronan Keating "Life is a Rollercoaster, just got to ride it.""
+description: In the immortal words of one Ronan Keating "Life is a Rollercoaster, just got to ride it."
 category: articles
 tags: [doctors, therapy, drugs]
 comments: true
