@@ -5,6 +5,7 @@ description: "Life is settling a little now, there's been no shocks, hospital vi
 category: articles
 tags: [doctors, therapy, drugs]
 comments: true
+ross: true
 ---
 
 On Thanksgiving Thursday Julia and I do an epic christmas shop, we will be well fed and watered in the Lawley house this year! On Friday, Imogen has her school play, it's fantastic, she rocks. On Friday evening Greg has arranged a head wetting to celebrate the arrival of Joni Martin. I'm glad to say my thirst returned and the Gin Club dads were all on good form. During the night I was getting text updates from Julia making sure she was ok. After a couple of beers and a tour of Baldock's lesser pubs I head on home.  Julia is still up when I get home and has been through a whole packet of Halls for a sore throat. I find this out a few days later but it explains Julia's texts and highlights that where sickness is involved, we are are on an amber alert.
