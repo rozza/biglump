@@ -14,5 +14,5 @@ My hair was still falling out in clumps, so Ross helped me out and today we shav
 The best thing to happen over the last few days is that my Wicked Step Mother, Julie, has finished her treatment for breast cancer.  She's had a full on 5 months with surgery and radiotherapy, and can now get on with her life.  She has been a rock for me over the past few months as she knows exactly what I'm going through.  Big hugs and much love. X
 
 <p class="center">
-<img src="/images/two-baldies.jpg" alt="Two Baldies" style="width: auto;"/>
+<img src="/images/two-baldies.jpg" alt="Two Baldies" style="width: auto;" >
 </p>
