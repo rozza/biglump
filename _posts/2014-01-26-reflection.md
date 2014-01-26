@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
 title: "Reflection"
-description: "I thought rather than the normal diary approach I thought I'd step back and reflect."
+description: "I thought rather than the normal diary approach I'd step back and reflect."
 category: articles
 tags: [doctors, therapy, drugs]
 comments: true
