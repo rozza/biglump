@@ -278,6 +278,14 @@ a.ross:hover {
   color: #24536b;
 }
 
+a.imogen, a.imogen:visited, a.imogen:active {
+  color: #00CED1;
+}
+
+a.imogen:hover {
+  color: #40E0D0;
+}
+
 em {
   padding: 1px 2px;
   border-radius: 2px;
@@ -735,6 +743,9 @@ h1 span {
 }
 .post h1.ross {
   color: #006DB0;
+}
+.post h1.imogen {
+  color: #48D1CC;
 }
 .post h1, .post h2, .post h3, .post h4, .post h5, .home h1 {
   padding-top: 16.5px;

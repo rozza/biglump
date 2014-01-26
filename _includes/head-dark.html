@@ -7,7 +7,7 @@
 
 <meta property="og:locale" content="en_GB">
 <meta property="og:title" content="{% if page.layout != "home" and page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}">
-<meta property="og:description" content="{% if page.layout == "home" %}{% for post in site.posts limit:2 %}{% if post.ross %}Ross{% else %}Julia{% endif %}: {{ post.description  | strip_html | strip_newlines | truncate: 100 }}
+<meta property="og:description" content="{% if page.layout == "home" %}{% for post in site.posts limit:2 %}{% if post.ross %}Ross{% elsif post.imogen %}Imogen{% else %}Julia{% endif %}: {{ post.description  | strip_html | strip_newlines | truncate: 100 }}
 {% endfor %}
 {% elsif page.description %}{{ page.description | strip_html | strip_newlines | truncate: 120  }}
 {% else %}{{ page.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}">
