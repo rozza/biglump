@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
 title: "Pathology"
-description: "Today we made the journey back to see the Oncologist today"
+description: "Today we made the journey back to see the consultant surgeon today"
 category: articles
 tags: [doctors, therapy, drugs]
 comments: true
