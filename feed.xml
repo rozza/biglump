@@ -5,13 +5,39 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://teamrj.co.uk/feed.xml" />
 <link rel="alternate" type="text/html" href="http://teamrj.co.uk" />
-<updated>2014-05-24T17:42:02+01:00</updated>
+<updated>2014-05-24T19:05:47+01:00</updated>
 <id>http://teamrj.co.uk/</id>
 <author>
   <name>The Lawleys</name>
   <uri>http://teamrj.co.uk/</uri>
   <email>ross.lawley@gmail.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Lanes]]></title>
+  <link rel="alternate" type="text/html" href="http://teamrj.co.uk/articles/lanes" />
+  <id>http://teamrj.co.uk/articles/lanes</id>
+  <published>2014-05-24T00:00:00+01:00</published>
+  <updated>2014-05-24T00:00:00+01:00</updated>
+  <author>
+    <name>The Lawleys</name>
+    <uri>http://teamrj.co.uk</uri>
+    <email>ross.lawley@gmail.com</email>
+  </author>
+  <content type="html">I'm a big fan of xkcd, its a geek thing.&lt;p&gt;Xkcd is webcomic of romance, sarcasm, math, and language - if you haven’t seen
+it before then you should check it out: &lt;a href=&quot;http://xkcd.com/&quot;&gt;xkcd.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There’s a few strips about breast cancer as his fiancé contracted it a few years
+ago and as I was surfing today and happened upon his lanes strip and it seemed
+apt.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://imgs.xkcd.com/comics/lanes.png&quot; alt=&quot;lanes&quot; title=&quot;Each quarter of the lanes from left to right correspond loosely to breast cancer stages one through four (at diagnosis).&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Oh - I’ve also added one to Julia’s last post as it was relevant ;)&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://teamrj.co.uk/articles/lanes&quot;&gt;Lanes&lt;/a&gt; was originally published by The Lawleys at &lt;a href=&quot;http://teamrj.co.uk&quot;&gt;Big lump and the Lawleys&lt;/a&gt; on May 24, 2014.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -36,6 +62,8 @@
 &lt;p&gt;So, I’ll be gearing myself up for 3 weeks of treatment.  In the meantime, it’s half term, and I get some quality time with my bairns.  I imagine they’ll be out on their bikes, at the park and generally having fun.  Just what we all need.&lt;/p&gt;
 
 &lt;p&gt;Jx&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://imgs.xkcd.com/comics/tattoo.png&quot; alt=&quot;Tattoo&quot; title=&quot;I calculate that the electrons in radiation therapy hit you at 99.8% of the speed of light, and the beam used in a 90-second gamma ray therapy session could, if fired with less precision, kill a horse (they did not let me test this).&quot; /&gt;&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://teamrj.co.uk/articles/tattoos-and-scans&quot;&gt;Tattoos and Scans&lt;/a&gt; was originally published by The Lawleys at &lt;a href=&quot;http://teamrj.co.uk&quot;&gt;Big lump and the Lawleys&lt;/a&gt; on May 20, 2014.&lt;/p&gt;</content>
 </entry>
@@ -556,32 +584,6 @@ However, despite that, we came away delighted.  After they’d done the surgery,
 &lt;p&gt;And in other news, it’s my Dad’s birthday today.  Happy birthday Dad. X&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://teamrj.co.uk/articles/tired&quot;&gt;Tired&lt;/a&gt; was originally published by The Lawleys at &lt;a href=&quot;http://teamrj.co.uk&quot;&gt;Big lump and the Lawleys&lt;/a&gt; on March 02, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[I'm frightened]]></title>
-  <link rel="alternate" type="text/html" href="http://teamrj.co.uk/articles/the-fear" />
-  <id>http://teamrj.co.uk/articles/the-fear</id>
-  <published>2014-02-17T00:00:00+00:00</published>
-  <updated>2014-02-17T00:00:00+00:00</updated>
-  <author>
-    <name>The Lawleys</name>
-    <uri>http://teamrj.co.uk</uri>
-    <email>ross.lawley@gmail.com</email>
-  </author>
-  <content type="html">I've spent so long trying to be strong and positive, I've surprised myself a little bit today by giving in to The Fear.&lt;p&gt;The Fear that I’ll not beat this Cancer.&lt;/p&gt;
-
-&lt;p&gt;The Fear that if I beat it this time around that it’ll come back, and I won’t be able to fight it a second time around.&lt;/p&gt;
-
-&lt;p&gt;The Fear that I could die and not watch my bairns grow up into the fantastic people I know they will.&lt;/p&gt;
-
-&lt;p&gt;The Fear of leaving Ross to handle things without me.&lt;/p&gt;
-
-&lt;p&gt;I’ve spent today in bed again today, too exhausted to do much except watch tv and read and I don’t doubt that The Fear is related to this exhaustion.  There’s been lots of tears.&lt;/p&gt;
-
-
-  &lt;p&gt;&lt;a href=&quot;http://teamrj.co.uk/articles/the-fear&quot;&gt;I'm frightened&lt;/a&gt; was originally published by The Lawleys at &lt;a href=&quot;http://teamrj.co.uk&quot;&gt;Big lump and the Lawleys&lt;/a&gt; on February 17, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>
