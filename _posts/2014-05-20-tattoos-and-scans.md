@@ -18,3 +18,5 @@ In order for them to set the radiotherapy up, I had to have 5 tattoo dots and th
 So, I'll be gearing myself up for 3 weeks of treatment.  In the meantime, it's half term, and I get some quality time with my bairns.  I imagine they'll be out on their bikes, at the park and generally having fun.  Just what we all need.
 
 Jx
+
+![Tattoo](http://imgs.xkcd.com/comics/tattoo.png "I calculate that the electrons in radiation therapy hit you at 99.8% of the speed of light, and the beam used in a 90-second gamma ray therapy session could, if fired with less precision, kill a horse (they did not let me test this).")
