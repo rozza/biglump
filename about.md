@@ -21,3 +21,5 @@ We know the destination is a healthy Julia and we know some of the waypoints, we
 don't know the order yet but we've started the journey.
 
 Love the Lawleys.
+
+Ps - Read it from the start [as it unfolds](/archive/).
