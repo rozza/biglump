@@ -17,4 +17,4 @@ In other news this week, Imogen has been suffering with an ear infection.  She's
 
 It now 5 weeks until the Race For Life.  The Gin Club are all upping the ante and my Facebook feed is full of posts stating how much training is going on, admittedly, some are more positive than others. It makes me smile, and very humbled and proud to be able to call them friends.  Thanks to them we've passed our fundraising target of £500, but there's still time if anyone has a few quid they can spare.
 
-http://www.justgiving.com/the-gin-club
+[http://www.justgiving.com/the-gin-club](http://www.justgiving.com/the-gin-club)
