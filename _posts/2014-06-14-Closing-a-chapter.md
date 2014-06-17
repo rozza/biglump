@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
 title: "Closing a Chapter"
-description: "Sometimes things happen that make you re-evealuate what is important to you."
+description: "Sometimes things happen that make you re-evaluate what is important to you."
 category: articles
 tags: [doctors, therapy, drugs]
 comments: true
