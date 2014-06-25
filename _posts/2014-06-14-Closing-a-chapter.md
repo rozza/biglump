@@ -15,7 +15,7 @@ After our break to Center Parcs, I had my big operation, and I haven't been back
 
 In the May half term I was able to have some great days with the bairns and just enjoy being a Mummy.  Generally followed by a long nap.
 
-My work had been going through a lot of changes as a result of a joint vernture between two big European companies.  As a result of this there was some restructuring and I was given the opportunity to take Voluntary Redundancy.  Ross and I decided that it was something I should go for.  My priority needs to be my family.  
+My work had been going through a lot of changes as a result of a joint venture between two big European companies.  As a result of this there was some restructuring and I was given the opportunity to take Voluntary Redundancy.  Ross and I decided that it was something I should go for.  My priority needs to be my family.  
 
 Luckily for me, my application was successful, and yesterday was officially my last day at work.  I have mixed feelings about it, I worked there for four years, and met some really interesting people.  I also learned a lot, and hopefully I'll be able to transfer that to any new job I get in the future.
 
