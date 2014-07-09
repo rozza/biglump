@@ -1256,3 +1256,9 @@ footer .social ul li:last-child {
     font-size: 12px;
   }
 }
+
+sup {
+  font-size: 60%;
+  vertical-align: super;
+  padding-left: 5px;
+}
