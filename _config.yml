@@ -22,7 +22,7 @@ links:
   - title: About
     url: /about
   - title: Archive
-    uril: /archive
+    url: /archive
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London
