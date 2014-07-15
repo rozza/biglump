@@ -10,7 +10,7 @@ comments: true
 Sixteen ladies and twelve children ran or walked the 5km course round Stevenage Fairlands Valley Park as part of The Gin Club Team. When I was diagnosed in October last year, it was one of the first things I asked the Breast Care Nurse.  She wasn't very committal, and said it depend where I was in my treatment.  If I'd have had the planned FEC chemo in May/June, there was very little chance that I would have been able to participate, or if I did it was may have been in a wheelchair.  As it happened the Paclitaxel chemotherapy and the biological treatment Herceptin worked so well that there was no need for the extra chemo, and I was delighted to be able to take part.  This year it was personal.
 
 <p class="center">
-<img src="/images/GinClubRaceforLife2014.jpg" alt="Post Race picture" />
+<img src="/images/GinClubRaceforLife2014.jpg" alt="Post Race picture" style="width: auto;"/>
 </p>
 
 I knew I wouldn't be able to run it, my energy levels are still massively diminished, but Imogen and Felix were keen to do so.  Luckily, Catherine agreed to Felix running with her and James, and Michelle had Imogen running with her and Katy.  They both did so well and I am so proud of them.
