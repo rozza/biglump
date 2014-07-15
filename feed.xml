@@ -5,7 +5,11 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://teamrj.co.uk/feed.xml" />
 <link rel="alternate" type="text/html" href="http://teamrj.co.uk" />
+<<<<<<< HEAD
 <updated>2014-06-25T13:14:00+01:00</updated>
+=======
+<updated>2014-07-09T16:53:29+01:00</updated>
+>>>>>>> FETCH_HEAD
 <id>http://teamrj.co.uk/</id>
 <author>
   <name>The Lawleys</name>
@@ -58,7 +62,11 @@
     <uri>http://teamrj.co.uk</uri>
     <email>ross.lawley@gmail.com</email>
   </author>
+<<<<<<< HEAD
   <content type="html">I worry that this blog must be a bit dull when I&#39;m just writing about what I&#39;ve been up to.&lt;p&gt;So I thought I’d write one from a different angle about why I’m lucky.  I know that sounds a bit daft, I mean, getting cancer at 36 is hardly fortuitous, but I have so many reasons to be thankful.  And here’s why.&lt;/p&gt;
+=======
+  <content type="html">I worry that this blog must be a bit dull when I'm just writing about what I've been up to.&lt;p&gt;So I thought I’d write one from a different angle about why I’m lucky.  I know that sounds a bit daft, I mean, getting cancer at 36 is hardly fortuitous, but I have so many reasons to be thankful.  And here’s why.&lt;/p&gt;
+>>>>>>> FETCH_HEAD
 
 &lt;h3 id=&quot;type-of-cancer&quot;&gt;Type of Cancer&lt;/h3&gt;
 
@@ -80,7 +88,11 @@
 
 &lt;h3 id=&quot;n1-m0&quot;&gt;N1, M0&lt;/h3&gt;
 
+<<<<<<< HEAD
 &lt;p&gt;The N and M Stages tell you whether the cancer has spread to the nodes or elsewhere. Again more information can be found on the Cancer Research website for this&lt;sup id=&quot;fnref:3:1&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;, but in my case, N1, the cancer had spread into the Lymph Glands but hadn’t gone into the surrounding tissue.  My M stage was M0.  It hadn’t gone anywhere else, it was contained within the breast tissue and lymph nodes.&lt;/p&gt;
+=======
+&lt;p&gt;The N and M Stages tell you whether the cancer has spread to the nodes or elsewhere. Again more information can be found on the Cancer Research website for this[^3], but in my case, N1, the cancer had spread into the Lymph Glands but hadn’t gone into the surrounding tissue.  My M stage was M0.  It hadn’t gone anywhere else, it was contained within the breast tissue and lymph nodes.&lt;/p&gt;
+>>>>>>> FETCH_HEAD
 
 &lt;h3 id=&quot;grade-3&quot;&gt;Grade 3&lt;/h3&gt;
 
@@ -120,6 +132,7 @@ Here’s also a shout out to all my Internet Weirdy friends.  People that I don�
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
+<<<<<<< HEAD
       &lt;p&gt;&lt;a href=&quot;http://pancreaticcanceraction.org/community/blog/hard-hitting-advertising-campaign-launched-encourage-increase-early-diagnosis-pancreatic-cancer/&quot;&gt;Pancreatic Cancer Action - Survival Rates&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:2&quot;&gt;
@@ -145,6 +158,33 @@ Here’s also a shout out to all my Internet Weirdy friends.  People that I don�
     &lt;/li&gt;
     &lt;li id=&quot;fn:9&quot;&gt;
       &lt;p&gt;&lt;a href=&quot;http://www.cancer.gov/cancertopics/genetics/breast/CHEK2gene&quot;&gt;National Cancer Institute - CHEK2 and Breast Cancer&lt;/a&gt; &lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+=======
+      &lt;p&gt;&lt;a href=&quot;http://pancreaticcanceraction.org/community/blog/hard-hitting-advertising-campaign-launched-encourage-increase-early-diagnosis-pancreatic-cancer/&quot;&gt;Pancreatic Cancer Action - Survival Rates&lt;/a&gt;&lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.breastcancercampaign.org/about-breast-cancer/breast-cancer-statistics&quot;&gt;Breast Cancer Campaign - Survival Rates&lt;/a&gt;&lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.cancerresearchuk.org/cancer-help/type/breast-cancer/treatment/tnm-breast-cancer-staging&quot;&gt;Cancer Research UK - Breast Cancer Staging&lt;/a&gt;&lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.breastcancercare.org.uk/breast-cancer-information/about-breast-cancer/diagnosis/cancer-size-grade&quot;&gt;Breast Cancer Care - Cancer Size and Grade&lt;/a&gt;&lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.cancerresearchuk.org/cancer-help/type/breast-cancer/treatment/hormone/types-of-breast-cancer-hormone-therapy&quot;&gt;Cancer Research UK - Hormone Therapy&lt;/a&gt;&lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.breastcancercare.org.uk/breast-cancer-information/about-breast-cancer/her-2&quot;&gt;Breast Cancer  Care - HER2&lt;/a&gt;&lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:7&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.cancerresearchuk.org/cancer-help/type/breast-cancer/treatment/biological-therapy-for-breast-cancer&quot;&gt;Cancer Research UK - Biological Treatments&lt;/a&gt;&lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:8&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.theguardian.com/society/2006/apr/10/cancercare.health&quot;&gt;The Guardian - Postcode lottery&lt;/a&gt;&lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:9&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.cancer.gov/cancertopics/genetics/breast/CHEK2gene&quot;&gt;National Cancer Institute - CHEK2 and Breast Cancer&lt;/a&gt;&lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+>>>>>>> FETCH_HEAD
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
@@ -195,7 +235,11 @@ Here’s also a shout out to all my Internet Weirdy friends.  People that I don�
     <uri>http://teamrj.co.uk</uri>
     <email>ross.lawley@gmail.com</email>
   </author>
+<<<<<<< HEAD
   <content type="html">After saying I wasn&#39;t going to go out last night, I changed my mind.&lt;p&gt;I’m very glad I did.  At about 7:30pm after discussing it with Ross we decided it would do me good to go out.  So after a mad rush to get changed and put my makeup on, I met the Gin Club at the George for cocktails.  It was a good night, with a lot of laughter, and some much needed distraction form the current treatment.  It’s good to be reminded that life goes on.&lt;/p&gt;
+=======
+  <content type="html">After saying I wasn't going to go out last night, I changed my mind.&lt;p&gt;I’m very glad I did.  At about 7:30pm after discussing it with Ross we decided it would do me good to go out.  So after a mad rush to get changed and put my makeup on, I met the Gin Club at the George for cocktails.  It was a good night, with a lot of laughter, and some much needed distraction form the current treatment.  It’s good to be reminded that life goes on.&lt;/p&gt;
+>>>>>>> FETCH_HEAD
 
 &lt;p&gt;Unfortunately, upon my return home, I had a bad nights sleep, with a recurring theme of decapitated LEGO men.  Imogen was up with the pain from her ear infection and Ross didn’t have a great night either.  Felix has taken to sleeping with swords, NERF guns and shields so he can fight the monsters in his bad dreams.  (I can’t even begin to imagine how scared he must be.)  Luckily, he seemed to be ok last night.&lt;/p&gt;
 
@@ -220,7 +264,11 @@ Here’s also a shout out to all my Internet Weirdy friends.  People that I don�
     <uri>http://teamrj.co.uk</uri>
     <email>ross.lawley@gmail.com</email>
   </author>
+<<<<<<< HEAD
   <content type="html">I&#39;ve finished the first week of radiotherapy.  Only two weeks to go.&lt;p&gt;I’m finding the breath holding technique to be getting easier as the week’s gone on.  The Radiographers, who are lovely, keep telling me to relax, but it’s not the most relaxing of environments, so it’s quite a challenge.  It’s quite tiring having a two hour round trip for a 20 minute appointment everyday, but luckily, I don’t have to drive myself.&lt;/p&gt;
+=======
+  <content type="html">I've finished the first week of radiotherapy.  Only two weeks to go.&lt;p&gt;I’m finding the breath holding technique to be getting easier as the week’s gone on.  The Radiographers, who are lovely, keep telling me to relax, but it’s not the most relaxing of environments, so it’s quite a challenge.  It’s quite tiring having a two hour round trip for a 20 minute appointment everyday, but luckily, I don’t have to drive myself.&lt;/p&gt;
+>>>>>>> FETCH_HEAD
 
 &lt;p&gt;There’s been a minor spanner in the works with my surgery wound.  I had been getting it drained every week and a half, but my Oncologist asked me not to have it done once I’d had my radiography planning appointment.  This had been fine, and the wound seemed to have stabilised.  Then on Tuesday night, it seemed to fill with fluid.  I told the Radiographers on Wednesday and in the pre treatment scan, they were able to see that every day since then, it’s filled more.  After discussing it with the Oncologist, it was decided that I should be drained again, as it coud affect the treatment.  Luckily I was able to see the surgeon yesterday, and he drained away 50ml.  Unfortunately it’s still swollen and quite sore.  Meh.&lt;/p&gt;
 
