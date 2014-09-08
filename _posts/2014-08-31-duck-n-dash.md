@@ -22,7 +22,7 @@ That evening she practiced putting her shoes and socks on quickly and got hersel
 On Sunday morning, we were up early and all had a fortifying breakfast.  The sun was shining, it was a beautiful day for it.  We got there early and Imogen went to set up her transition gear.  I realised at this point, we'd forgotten her goggles!  Panic!  A quick dash home to collect them and she was ready to go.
 
 <p class="center">
-<img src="/images/Duckndash_m.jpg" alt="Getting In The Zone"/>
+<img src="/images/duckndash_m.jpg" alt="Getting In The Zone"/>
 </p>
 
 At 9:00am, the first competitor started, Imogen's friend Freddie from school.  Also taking part was Jenson from the Gin Club, and Daniel from her rugby squad.  There were 16 in total in her age group.  They all looked really confident, and it was great to see them competing.
@@ -40,5 +40,5 @@ Once training was over we had to go back to the outdoor pool to collect Imogen's
 We all went to bed exhausted that night, and I'd just dropped off when Ross's phone beeped with an email telling us the times had been published.  We had a quick look and were delighted to find Imogen had won her category!  Girls Under 8 Duck N Dash champion.  We were so proud.  She did it in 6 minutes and 6 seconds!  What a girl.
 
 <p class="center">
-<img src="/images/Duckndash2_m.jpg" alt="Champion"/>
+<img src="/images/duckndash2_m.jpg" alt="Champion"/>
 </p>
