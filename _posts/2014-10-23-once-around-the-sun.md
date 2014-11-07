@@ -9,28 +9,29 @@ image:
 comments: true
 ---
 
-One year since hearing those words that have turned my life upside down. "It's Cancer." The disbelief, how can this happen to me? I was only 36, with a husband and two bairns who needed me!
+One year since hearing those words that have turned my life upside down. "It's Cancer."  The disbelief, how can this happen to me? I was only 36, with a husband and two bairns who needed me!
 
 In that year, I've had:
-A port implanted to allow for easier administration of drugs.
-2 lots of surgery.
-1 genetics consultation.
-24 appointments with Consultants.
-11 CT/MRI/ECG scans.
-10 blood tests.
-10 doses of chemotherapy.
-14 doses of Herceptin, (4 to go!)
-15 radiotherapy sessions.
-1 trip to A&E with chest pains.
-275+ daily Tamoxifen tablets.
 
-I've lost my hair, and it's growing back curly!
+* A port implanted to allow for easier administration of drugs.
+* 2 lots of surgery.
+* 1 genetics consultation.
+* 24 appointments with Consultants.
+* 11 CT/MRI/ECG scans.
+* At least 10 blood tests.
+* 10 doses of chemotherapy.
+* 14 doses of Herceptin, (4 to go!)
+* 15 radiotherapy sessions.
+* 1 trip to A&E with chest pains.
+* 275+ daily Tamoxifen tablets.
+
+I've lost my hair, and it's growing back curly!<br>
 I've spent a lot of time in bed as I've struggled with fatigue.
 
-I've walked the Race for Life 5k with the Gin Club, and together we raised over £2800 for Cancer Research.
-I've completed the Standalone 10k road race with Michelle.
-We've had a wonderful family holiday to Center Parcs.
-We've been on a really special day out to London courtesy of the Willow Foundation.
+I've walked the Race for Life 5k with the Gin Club, and together we raised over £2800 for Cancer Research.<br>
+I've completed the Standalone 10k road race with Michelle.<br>
+We've had a wonderful family holiday to Center Parcs.<br>
+We've been on a really special day out to London courtesy of the Willow Foundation.<br>
 I've left my job.
 
 In general friends and family, old and new, real life and internet weirdies have been amazing. The support we've received has ranged from babysitting and providing meals to hugs, flowers, and just well timed messages. I'm not going to dwell on those that have let us down.

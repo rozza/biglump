@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
 title: "Because I can..."
-description: "And because this is what the Internet is for"
+description: "And because this is what the Internet is for..."
 category: articles
 tags: [wait, scans, nhs]
 image:
