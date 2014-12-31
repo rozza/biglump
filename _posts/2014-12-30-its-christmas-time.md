@@ -25,7 +25,7 @@ It was a world away from last year.  Last year, where I had no hair, where I was
 <img src="/images/jandjoneyearon.jpg" alt="One Year On" style="width: auto;"/>
 </p>
 
-It's interesting that now we are just about to close the Active Treatment chapter, Ross and I have started discussing things that a lot of the time were left unsaid.  If I'm honest, I didn't like to think too much about what would happen if the treatment didn't work, as that would be admitting that I could die.  That's not really a thought I wanted to entertain.  And Ross said that he didn't really want to think about it either because that would mean he'd be left behind to look after the bairns. Not a scenario either of us liked the sound of.
+It's interesting that now we are just about to close the Active Treatment chapter, Ross and I have started discussing things that a lot of the time were left unsaid.  If I'm honest, I didn't like to think too much about what would happen if the treatment didn't work, as that would be admitting that I could die.  That's not really a thought I wanted to entertain.  And Ross said that he didn't really want to think about it either because that would mean he'd be left behind alone to look after the bairns. Not a scenario either of us liked the sound of.
 
 Next week I have my last Herceptin and end active treatment.  Fifteen months of chemicals and procedures.  In some ways it's quite hard to get my head around the fact that it's lasted so long.  Usually when you are ill, it's a short solution, and you're up and at it before too long.  This just seems to be a marathon.  I'll be so relieved when it's finished.  They can then put me back together again, and we go to the new normal.
 
