@@ -21,6 +21,6 @@ The breast surgeon suggested that any chest pains I have been having were due to
 
 I now have to wait for my Oncologist to review the scans and decide what to do about the pain.  I'm currently taking Tramadol which is a fairly hefty painkiller, which can leave me feeling a bit light headed and woosey.  I don't really want to be taking it long term.
 
-Fingers crossed I can get to see the Oncologist soon so we can come up with a plan.
+Fingers crossed I can get to see the Oncologist soon so we can come up with a plan.  One thing that was mentioned by the Oncologist and the breast surgeon, is that my port can be taken out at the same time as my reconstruction, which means one less surgical procedure to worry about.
 
 Jx
