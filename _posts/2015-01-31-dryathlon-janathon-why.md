@@ -27,7 +27,7 @@ This year I was determined to give Janathon a proper crack of the whip and go fo
 
 I haven't lost much weight, I ate too many biscuits at the start of the month for that, but my scales tell me I have reduced my fat percentage and I'm happy to trade fat for muscle.
 
-This year, I've really enjoyed taking part and happily after her last Herceptin treatment, on the 12th of January Julia was finally declared cancer free and officially in remission!  Thanks in no small part to the great work of Cancer Research and also to the lessons learnt in the past from those who've also had the misfortune get cancer.  To help those in the future please donate anything you can: [http://justgiving.com/Ross-dryathlete2015/](http://justgiving.com/Ross-dryathlete2015/)
+This year, I've really enjoyed taking part and happily after her last Herceptin treatment, on the 12th of January Julia was finally declared cancer free and officially in remission!  Thanks in no small part to the great work of Cancer Research and also to the lessons learnt in the past from those who've also had the misfortune get cancer.  To help those in the future please donate anything you can:<br> [http://justgiving.com/Ross-dryathlete2015/](http://justgiving.com/Ross-dryathlete2015/)
 
 Ross
 
