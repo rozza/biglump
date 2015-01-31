@@ -18,7 +18,7 @@ When I think about last year I have two big thoughts*. Firstly, last winter was 
 
 Fast forward a year and Julia is much better and the christmas season was busy, boozy and a hell of a lot of fun!  It's soo much nicer to have a functioning Julia to help out ;) To give something back and my liver a rest I signed up to Dryathlon and Janathon again - also people kept asking if I was doing it again which made it much harder to ignore.
 
-This year I was determined to give Janathon a proper crack of the whip and go for it with a bit more effort.  There's been times when I've not wanted to do anything but I just had to do something, so I did a fast run round town - weirdly, I kept bumping into members of the Gaskells on my Thursday night dash.  Dan Strong was my wingman on the long weekend runs making them less of a drag.  Also, I should mention the Insanity workouts at the Knights Templar gym - they are serious fun and no word of a lie, I ached for 4 days after the first one but I still went back for 3 more and will be continuing the class.  Here's my Janathon numbers:
+This year I was determined to give Janathon a proper crack of the whip and go for it with a bit more effort.  There's been times when I've not wanted to do anything but I just had to do something, so I did a fast run round town - weirdly, I kept bumping into members of the Gaskells on my Thursday night dash.  Dan Strong was my wingman on the long weekend runs making them less of a drag.  Also, I should mention the Insanity workouts at the Knights Templar gym - they are serious fun and no word of a lie, I ached for *4 days* after the first one but I still went back for 3 more and will be continuing the class.  Here's my Janathon numbers:
 
 * 7 hours running some 64km
 * 6 hours in the Gym
