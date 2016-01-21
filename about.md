@@ -22,4 +22,8 @@ don't know the order yet but we've started the journey.
 
 Love the Lawleys.
 
+UPDATE:
+
+After just over a year in remission, we've had the devastating news that my Cancer has returned. This is no longer a narrative into the journey we took to getting me back to full health, but it's diverged into how we face the trials and tribulations set before us in the time I have left.  It's not going to make for easy reading, it's not going to be a particular joy to write either, but one thing I am sure of, is that it will help us get through it.  We've got some great support, which we are immensely grateful for, and just hope that when the going get's tough, the tough get going.
+
 Ps - Read it from the start [as it unfolds](/archive/).
