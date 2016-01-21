@@ -2,3 +2,4 @@ _site
 Gemfile.lock
 .public
 .DS_Store
+.ruby-version
