@@ -19,7 +19,7 @@ On Friday morning, Tash popped in for a quick cup of fruit tea in a china cup, a
 
 I spoke to as few School Mum's who I hadn't seen in a while.  It's good to catch up on other people's news, remind myself that there are other things going on.  Good things are going on.  Happy things are going on.
 
-The busy day had taken it’s toll on me, and I was in bed by 5:30pm.  Luckily I have alarms set to wake me up to take my medication.  I'd be in all sorts trouble if I missed therm.
+The busy day that I had, took it’s toll on me, and I was in bed by 5:30pm.  Luckily I have alarms set to wake me up to take my medication.  I'd be in all sorts trouble if I missed them.
 
 And so it continues.
 
