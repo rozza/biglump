@@ -17,13 +17,13 @@ Once there,  we had a quick chat with Dr Shah, my Oncologist, who told us that i
 
 
 <p class="center">
-<img src="/images/Cyberknifebed.jpg" alt="Cyberknife Cradle" style="width: auto;"/>
+<img src="/images/cyberknifebed.jpg" alt="Cyberknife Cradle" style="width: auto;"/>
 </p>
 
 I didn't have a great night's sleep, so lying still, on a vacuum packed beanbag looking up at an artificial blue sky listening to music for an hour, whilst the scanner and robot do their stuff was quite appealing.
 
 <p class="center">
-<img src="/images/Cyberknifeready.jpg" alt="Cyberknife Ready" style="width: auto;"/>
+<img src="/images/cyberknifeready.jpg" alt="Cyberknife Ready" style="width: auto;"/>
 </p>
 
 The treatment didn't hurt.  The robotic machine just moved around me and whirred, firing beams of radiation at me.  Nothing scary, nothing nasty, it just killed off bad cancer cells accurately.  All whilst I snoozed and listened to some music.  
