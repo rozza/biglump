@@ -17,7 +17,7 @@ Once there,  we had a quick chat with Dr Shah, my Oncologist, who told us that i
 
 
 <p class="center">
-<img src="/images/cyberknifebed.jpg" alt="Cyberknife Cradle" style="width: auto;"/>
+<img src="/images/cyberknifebed1.jpg" alt="Cyberknife Cradle" style="width: auto;"/>
 </p>
 
 I didn't have a great night's sleep, so lying still, on a vacuum packed beanbag looking up at an artificial blue sky listening to music for an hour, whilst the scanner and robot do their stuff was quite appealing.
