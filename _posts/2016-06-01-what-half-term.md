@@ -1,6 +1,6 @@
 ---
 layout: post-light-feature
-title: "What Half Term!"
+title: "What Half Term?"
 description: "This half term is busy..."
 category: articles
 tags: [secondary, primary, friendship, pain]
@@ -25,14 +25,14 @@ Back to Friday...
 
 Michelle offered to have the bairns, on Friday morning, which was really appreciated as she'd only just moved into her new house.  I'd gone to bed late, and had to get up early so I could eat something as I had a 4 hour fast before the CT scan.  I've had lots of scans, but this one I'll remember for a while as the two tubes which connected my port to the saline and contrast solution weren't tightened enough and came undone covering my hair me in rather sticky fluid. So that was pleasant.  They also threw in a doppler ultrasound of my legs to see if there was a clot anywhere.  There wasn't.
 
-So the rest of the half term is taken up with:
-Tuesday - Appointment with the Orthopaedic Surgeon who will perform the surgery.
-Wednesday - The 3 weekly Herceptin and Zometa infusion
-Thursday - My Counseling session, and my Dad coming down (yay!)
-Friday - Admitted into hospital
-Saturday - Surgery
-Sunday - Recovering from Surgery
-Monday - I'm still in hospital, the bairns go back to school.
+So the rest of the half term is taken up with:<br>
+Tuesday - Appointment with the Orthopaedic Surgeon who will perform the surgery.<br>
+Wednesday - The 3 weekly Herceptin and Zometa infusion<br>
+Thursday - My Counseling session, and my Dad coming down (yay!)<br>
+Friday - Admitted into hospital<br>
+Saturday - Surgery<br>
+Sunday - Recovering from Surgery<br>
+Monday - I'm still in hospital, the bairns go back to school.<br>
 
 So I don't feel we really get a half term.  I feel so bad for the kids. It's all full of stupid medical stuff. This was the week we were going to go abroad on holiday.  Somewhere with a pool, somewhere reasonably hot. To get away from it all, have fun as a family.  But we can't, because the stupid cancer got in the way.  I hate it.  I hate the way we have to change our plans to make room for it.  I hate it that form now on, I'm going to struggle to get travel insurance.  Get stuffed Cancer.  I want you out of my life.  I want it to be how it was before.  
 
