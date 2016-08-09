@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
 title: "Radio Ga Ga"
-description: "I'm 5 into a course of 10 radiotherapy sessions"
+description: "I'm 5 into a course of 10 radiotherapy sessions."
 category: articles
 tags: [secondary, primary, radiotherapy, sickness]
 comments: true
