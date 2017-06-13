@@ -29,6 +29,6 @@ I think it's fair to say, that Ross and I are both gutted.  We had thought we we
 
 For now, whilst we wait, I'm keen to keep things as normal as possible, and then we'll deal with whatever happens next when it happens.  But first things first, family life goes on, and we've got Imy and Felix's joint birthday party on Saturday to organise!
 
-And we keep on, keeping on.
+So we keep on, keeping on.
 
 Jx
