@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
 title: "Versions of Me"
-description: "In June this year, when we received the news that the cancer had spread again, Imy was upset that I was going to lose my hair again."
+description: "In June this year, when we received the news that the cancer had spread into my shoulder and hips, Imy was upset that I was going to lose my hair again."
 category: articles
 tags: [treatment,scan,chemotherapy]
 image:
@@ -9,7 +9,7 @@ feature: pinkgerbera.jpg
 comments: true
 ---
 
-She said that she didn't like the "No Hair" version of me, and that she wished it didn't have to happen.  We explained that it was an unfortunate inevitability to my treatment, and it was better to lose my hair, than let the cancer grow any more, and I wouldn't be bald forever.
+She said that she didn't like the "No Hair" version of me, and that she wished it didn't have to happen.  We explained that it was an unfortunate inevitability to my treatment, and it was better to lose my hair, than let the cancer grow any more, and also I wouldn't be bald forever, it would grow back.
 
 We then got into a discussion about different versions of me, and I've decided to document it in pictures.
 
@@ -35,7 +35,7 @@ This is me during my Primary Breast Cancer treatment.  Treatment that involved t
 <img src="/images/version3.jpg" alt="Version3"/>
 </p>
 
-This is me when I finished most of my primary treatments (except Herceptin) and was adjusting to the New Normal.  During this time I had 2 lots of surgery, an Oophorectomy and my DIEP reconstruction.  It gave us time to regroup and take a long needed breath of fresh air.
+This is me when I finished most of my primary treatments (except Herceptin) and was adjusting to the New Normal.  During this time I had 2 lots of surgery, an Oophorectomy and my DIEP reconstruction.  It gave us time to regroup as a family and take a long needed breath of fresh air.  Literally as well as figuratively, with a week spent in the Peak District and a week in the Lake District.
 
 ##Version 4
 
@@ -43,7 +43,7 @@ This is me when I finished most of my primary treatments (except Herceptin) and 
 <img src="/images/version4.jpg" alt="Version4"/>
 </p>
 
-This is the version of me that was diagnosed with Secondary Breast Cancer in January 2016.  Only giving me 12 months as Version 3.  When I was in so much pain that I would wake up screaming with the pain, and when I had to have two weeks in the Garden House Hospice to get it under control.  I had been put on enough Morphine to fell an elephant.  I had surgery to remove and reconstruct a vertebrae after it collapsed, and started the long road to recovery with a few clear scans in between.  Things were starting to look up.
+This is the version of me that was diagnosed with Secondary Breast Cancer in January 2016.  I had only had 12 months as Version 3.  When I was in so much pain that I would wake up screaming with the pain, and when I had to have two weeks in the Garden House Hospice to get it under control.  I had been put on enough Morphine to fell an elephant.  I had a difficult, delicate, and potentially life changing surgery to remove and reconstruct a vertebrae after it collapsed.  After that was the long road to recovery with a few clear scans along the way.  Things were starting to look up.
 I was able to have an extended celebration for my 40th birthday with friends and family.  By June 2017, I felt the best I had done since Version 3, but then we had another curve ball.
 
 ##Version 5
@@ -52,7 +52,7 @@ I was able to have an extended celebration for my 40th birthday with friends and
 <img src="/images/version5.jpg" alt="Version5"/>
 </p>
 
-This is the current version of me.  The version that has just finished another course of chemotherapy.  I have no hair, although as I've finished, it is growing back, and I am struggling with low mood and fatigue.  Hopefully with support of my medical team, this version won't last long.
+This is the current version of me.  The version that has just finished another course of chemotherapy.  I have no hair, although as I've finished, it is growing back, but I am struggling with low mood and fatigue.  Hopefully with support of my medical team, this version won't last long.
 
 ##Version 6
 
