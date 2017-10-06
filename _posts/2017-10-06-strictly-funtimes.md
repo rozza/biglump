@@ -3,17 +3,17 @@ layout: post-light-feature
 title: "Strictly Fab-u-lous"
 description: "A month or so ago, I had a phone call from Grandma Julie asking me what I was doing on Saturday 30th of September."
 category: articles
-tags: [treats,accessibility,fun,fabulous]
+tags: [treats,accessibility,fun,fabulous,strictly]
 image:
 feature: pinkgerbera.jpg
-comments: true
+comments: trues
 ---
 
 After checking the diary, I confirmed that I wasn't doing anything, and she then announced that she had managed to get tickets to be in the audience for Strictly Come Dancing that night, and would I like to go with her.  Would I?  Would I!!  Of course I would!
 
 So, plans were made for Dad and Julie came down to stay on the Friday and spend a little bit of time with us over that weekend.
 
-Now, here's the thing, just because you've received the tickets, it doesn't actually guarantee you a seat in the audience.  They send out twice as many tickets as there are seats, and then you queue up at Elstree Studios on the Saturday morning for them to be validated.  These tickets are like gold dust.  Millions of people apply for them, and only 500 actually get to see the show live.
+Now, here's the thing, just because you've received the tickets, it doesn't actually guarantee you a seat in the audience.  They send out twice as many tickets as there are seats, and then you queue up at Elstree Studios on the Saturday morning for them to be validated.  These tickets are like gold dust.  Millions of people apply for them, and only 500 actually get in to see the show live.
 
 Ross and Julie came up with a plan that would see them get to the Studios at about 8:15am.  (Thankfully I didn't need to be there for that bit.)  But it's a good job they didn't leave it any later as some people had been queuing with chairs/blankets/tents since 4am!  Once the tickets were validated, all that remained was for Julie and I to come back at 4pm with our Glad Rags on.
 
