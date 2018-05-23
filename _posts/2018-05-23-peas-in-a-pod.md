@@ -21,6 +21,6 @@ I'm next seeing the Oncologist in 3 weeks, and we'll have a plan of attack then.
 
 It's a shitty bit of news, but it could have been worse.  The two areas are painful, but I can always increase the amount of Morphine I'm taking.  The Palliative Consultant in the Hospice is keeping an eye on me and encouraging me to alter my meds should I feel the need and giving me the knowledge and confidence in order to do that.
 
-So, with Imy's exams, half term holiday and Felix's birthday, we'll continue on with life as normally as we can and keep on, keeping on,
+So, with Imy's exams, half term holiday and Felix's birthday, we'll continue on with life as normally as we can and keep on, keeping on.
 
 Jx
