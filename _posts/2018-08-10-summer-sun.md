@@ -9,11 +9,11 @@ feature: pinkgerbera.jpg
 comments: true
 ---
 
-I've been meaning to write a catch up for a while, but despite only working 10 hours a week, I never seem to find the time.  I suppose it's because I know I'm going to have to concentrate for a decent amount of time.  Something that I find difficult to do.  Even when I'm working I struggle to concentrate, and trying to find apply logic to a software problem can sometimes have embarrassing results.  Thankfully my line manager accepts these limitations and is glad of anything I produce, and if it actually works properly, then that's a bonus! :laughing:
+I've been meaning to write a catch up for a while, but despite only working 10 hours a week, I never seem to find the time.  I suppose it's because I know I'm going to have to concentrate for a decent amount of time.  Something that I find difficult to do.  Even when I'm working I struggle to concentrate, and trying to find apply logic to a software problem can sometimes have embarrassing results.  Thankfully my line manager accepts these limitations and is glad of anything I produce, and if it actually works properly, then that's a bonus! :-D
 
 So, it may take me a few days to complete this post...but I will complete this post! So far, I'm a week in.
 
-The title of this blog post is a nod to the fact we are in the midst of a two month (and counting) heat wave.  Everyone has a sweat sheen on them, and the ice cream van is doing a roaring business.  In fact Imy saw 3 outside to the local waterpark last week.
+The title of this blog post is a nod to the fact we are in the midst of a two month (and counting) heat wave.  Everyone has a sweat sheen on them, and the ice cream van is doing a roaring business.  In fact Imy saw 3 outside the local waterpark last week.
 
 I left the last post not knowing whether I'd be able to have Cyberknife or not, and looking forward to our holiday in Sherwood Forest and Felix's 10th birthday.
 
