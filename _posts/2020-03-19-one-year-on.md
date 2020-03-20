@@ -9,7 +9,7 @@ feature: pinkgerbera.jpg
 comments: true
 ---
 
-I'm slightly aghast that I haven't written on this blog for over a year.  I've been adding posts to Facebook about how things are progressing, but this blog has been neglected.  Mainly because it is a faff to update with the SVN and what not.  Anyway...  
+I'm slightly aghast that I haven't written on this blog for over a year.  I've been adding posts to Facebook about how things are progressing, but this blog has been neglected.  Mainly because it is a faff to update with the SVN and what not.  Anyway...      
 
 <h3>Cyberknife</h3>
 
