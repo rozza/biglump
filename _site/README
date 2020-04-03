@@ -1,0 +1,10 @@
+Big Lump blog
+-------------
+-- Sync Github, master and branch
+1. Write post
+2. cd ~/code/biglump
+3. Preview: jekyll serve  (open http://localhost:4000/)
+4. Push to Github
+
+5. Run ./publish.sh  (This creates the website - in gh-pages) 
+5. Push to Github (will put it online)
