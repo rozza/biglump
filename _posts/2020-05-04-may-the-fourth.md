@@ -17,7 +17,7 @@ Only a very few times during the quarantine, have I felt very lonely, or isolate
 
 Since last week's planning session, I've been trying to prepare as much as I can for the next round of cyberknife. I've spoken to the unit today, and I've confirmed I can use essential oils which my Facebook friends and followers have been helping me decide on.  I will be taking in a CD lent to me by my friend, Katherine, so I can hopefully focus on that.  I've been using Mindfulness to try and control my breathing and I'll be taking two diazapan at 2pm so they will have well and truly kicked in by the time I start treatment.  
 
-I'm hoping to be able to take my little heart with me. I got them from Mrs Bee's Emporium on Etsy for Imogen's SAT's so she knew she had a little bit of me with her. [^2]  Imy thought it would be a lovely idea if we could do it for theses sessions.  It's a brilliant idea.  I'll be dropping some essential oils on them too.
+I'm hoping to be able to take my little heart with me. I got them from Mrs Bee's Emporium on Etsy for Imogen's SAT's so she knew she had a little bit of me with her. [^2]  Imy thought it would be a lovely idea if we could do the same for these sessions.  It's a brilliant idea.  I'll be dropping some essential oils on both of them too.
 
 <p class="center">
 <img src="/images/2020handhearts.jpg" alt="Heart" style="width: 50%;"/>
